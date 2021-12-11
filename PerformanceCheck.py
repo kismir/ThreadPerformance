@@ -208,4 +208,5 @@ if __name__ == '__main__':
     plt.grid(True)
     plt.show()
 
+# Commit pushed through sourcetree
 # successfully merged
